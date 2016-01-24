@@ -1,0 +1,2 @@
+#REM python cubemximporter.py <path-to-eclipse-workspace>/test1 <path-to-cubemx-out>/mymcu
+C:\Python27\python.exe cubemximporter.py C:\Users\fruml\workspace\OpenLogicMaster C:\Users\fruml\workspace\OpenLogicMaster\CubeMx\OpenLogicMaster
